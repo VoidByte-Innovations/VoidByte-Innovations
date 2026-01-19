@@ -37,12 +37,4 @@ If you want to learn and build with us:
 
 If you're interested in collaborating, mentoring, or joining VoidByte, get in touch with the founders.
 
----
 
-If you'd like, I can also:
-
-- Add a Projects section listing current work
-- Provide templates for contributor guidelines and issue/PR templates
-- Create a short onboarding checklist for new members
-
-Tell me which of these you'd like next.
